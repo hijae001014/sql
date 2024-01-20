@@ -1,0 +1,200 @@
+First Name,Last Name,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Color,Subscription Status,Shipping Type,Quantity Purchased,City,customer_id,product_id,order_id
+Henry,Davis,20,Male,Coat,Outerwear,100,Beige,Yes,Free Shipping,2,Tennessee,423,96,1
+James,West,58,Male,Skirt,Clothing,29,Beige,Yes,2-Day Shipping,2,Ohio,251,100,2
+Lana,Edwards,65,Male,Coat,Outerwear,70,Beige,Yes,Free Shipping,2,Indiana,351,121,3
+Oscar,Harrison,30,Male,Coat,Outerwear,48,Beige,Yes,Store Pickup,1,Missouri,304,157,4
+Steven,Crawford,32,Male,Pants,Clothing,61,Beige,Yes,Next Day Air,4,Massachusetts,329,186,5
+Tony,Gray,69,Male,Handbag,Accessories,76,Beige,Yes,Next Day Air,5,Louisiana,361,192,6
+Blake,Harris,57,Male,Jewelry,Accessories,31,Black,Yes,Standard,1,North Carolina,257,45,7
+Cherry,Jones,21,Male,Pants,Clothing,51,Black,Yes,Express,1,Louisiana,308,56,8
+Cherry,Thompson,59,Male,Scarf,Accessories,78,Black,Yes,2-Day Shipping,3,South Carolina,367,58,9
+Daryl,Hamilton,31,Male,Dress,Clothing,48,Black,No,Store Pickup,3,Wyoming,301,66,10
+Michael,Reed,56,Male,Backpack,Accessories,26,Black,Yes,Standard,4,New York,240,143,11
+Miller,Miller,52,Male,Skirt,Clothing,30,Black,Yes,Standard,1,Colorado,254,148,12
+Olivia,Ferguson,53,Male,Backpack,Accessories,81,Black,Yes,Next Day Air,4,New Hampshire,375,155,13
+Tara,Henderson,52,Male,Sweater,Clothing,48,Black,Yes,Free Shipping,4,Montana,300,190,14
+Alisa,Davis,29,Male,Shorts,Clothing,35,Blue,Yes,Store Pickup,3,Virginia,270,24,15
+Darcy,Brooks,70,Male,Coat,Outerwear,95,Blue,Yes,Store Pickup,4,Massachusetts,411,65,16
+Miller,Ryan,64,Male,Scarf,Accessories,85,Blue,Yes,Free Shipping,3,Utah,383,149,17
+Nicole,Wright,55,Male,Shoes,Footwear,86,Blue,Yes,Free Shipping,4,Virginia,387,153,18
+Sarah,Nelson,19,Male,Sandals,Footwear,72,Blue,Yes,Store Pickup,2,New York,353,177,19
+Abigail,Turner,47,Male,Coat,Outerwear,94,Brown,Yes,Next Day Air,3,New Mexico,404,1,20
+Amanda,Morrison,30,Male,Shirt,Clothing,85,Brown,Yes,Express,4,South Carolina,386,27,21
+Ellia,Harper,40,Male,Backpack,Accessories,40,Brown,Yes,2-Day Shipping,1,Washington,284,78,22
+Grace,Miller,41,Male,Backpack,Accessories,73,Brown,Yes,Store Pickup,3,Mississippi,356,91,23
+Lucy,Reed,50,Male,Sweater,Clothing,37,Brown,Yes,Express,1,Idaho,277,126,24
+Martin,Morrison,33,Male,Dress,Clothing,79,Brown,Yes,Store Pickup,3,West Virginia,368,135,25
+Oscar,Baker,57,Male,Sweater,Clothing,89,Brown,Yes,Free Shipping,4,Louisiana,395,159,26
+Stuart,Cole,41,Male,Shoes,Footwear,35,Brown,Yes,Express,4,Vermont,271,187,27
+Alina,Hunt,55,Male,Jewelry,Accessories,54,Charcoal,Yes,Free Shipping,3,Montana,315,23,28
+Brooke,Edwards,53,Male,Sunglasses,Accessories,95,Charcoal,Yes,Next Day Air,2,New Mexico,410,48,29
+Cherry,Hamilton,31,Male,Pants,Clothing,62,Charcoal,Yes,Store Pickup,4,North Carolina,330,57,30
+Heather,Howard,58,Male,Gloves,Accessories,27,Charcoal,Yes,Store Pickup,1,New Hampshire,242,94,31
+Rafael,Cole,69,Male,Backpack,Accessories,96,Charcoal,Yes,Next Day Air,2,New York,416,165,32
+Reid,West,69,Male,Hoodie,Clothing,54,Charcoal,Yes,Free Shipping,4,Missouri,316,166,33
+Ryan,Mason,27,Male,Shorts,Clothing,34,Charcoal,Yes,Free Shipping,3,Louisiana,267,174,34
+Sofia,Baker,41,Male,Dress,Clothing,98,Charcoal,Yes,Next Day Air,1,Oklahoma,421,184,35
+Annabella,Cameron,35,Male,Jeans,Clothing,45,Cyan,Yes,Store Pickup,1,Indiana,292,36,36
+Cherry,Fowler,32,Male,Sneakers,Footwear,33,Cyan,Yes,Express,4,Hawaii,266,55,37
+Edith,West,56,Male,Shorts,Clothing,56,Cyan,Yes,Next Day Air,4,Kentucky,321,75,38
+Madaline,Walker,35,Male,Boots,Footwear,96,Cyan,Yes,Standard,1,California,417,129,39
+Martin,Stevens,54,Male,Blouse,Clothing,33,Cyan,Yes,2-Day Shipping,2,Massachusetts,264,134,40
+Violet,Nelson,48,Male,Belt,Accessories,70,Cyan,Yes,Express,1,Tennessee,350,197,41
+Blake,Johnson,61,Male,Coat,Outerwear,72,Gold,Yes,Express,4,Delaware,352,46,42
+Chester,Ryan,36,Male,Dress,Clothing,48,Gold,Yes,Express,3,Virginia,302,59,43
+Florrie,Bennett,20,Male,Scarf,Accessories,32,Gold,Yes,Standard,4,California,262,86,44
+Kate,Jones,27,Male,Jacket,Outerwear,30,Gold,Yes,Standard,3,Nevada,255,109,45
+Lana,Cameron,22,Male,Dress,Clothing,53,Gold,Yes,Next Day Air,4,Delaware,312,120,46
+Mike,Sullivan,32,Male,Gloves,Accessories,73,Gold,Yes,Express,1,Delaware,357,146,47
+Alexander,Rogers,44,Male,Sweater,Clothing,86,Gray,Yes,Next Day Air,2,Nevada,388,14,48
+Eddy,West,25,Male,Sunglasses,Accessories,36,Gray,Yes,Next Day Air,2,Alabama,272,70,49
+Edgar,Hall,45,Male,Coat,Outerwear,33,Gray,Yes,Store Pickup,3,Connecticut,265,71,50
+Edgar,Gibson,55,Male,Blouse,Clothing,53,Gray,Yes,Express,5,Kentucky,309,72,51
+Frederick,Stevens,43,Male,Hat,Accessories,94,Gray,Yes,Store Pickup,4,Texas,407,88,52
+Jacob,Edwards,64,Male,Hat,Accessories,76,Gray,Yes,Free Shipping,5,Utah,365,98,53
+Jenna,Kelley,53,Male,Skirt,Clothing,94,Gray,Yes,Standard,4,Wyoming,406,102,54
+Lucy,Cameron,63,Male,Shirt,Clothing,85,Gray,Yes,Free Shipping,4,Montana,381,127,55
+Maria,Wells,54,Male,Handbag,Accessories,94,Gray,Yes,Free Shipping,1,North Carolina,403,132,56
+Paul,West,24,Male,Sweater,Clothing,89,Gray,Yes,Next Day Air,4,Mississippi,396,162,57
+Rubie,Dixon,59,Male,Skirt,Clothing,59,Gray,Yes,2-Day Shipping,5,Vermont,326,171,58
+Tony,Campbell,37,Male,Gloves,Accessories,90,Gray,Yes,Store Pickup,1,Wyoming,399,193,59
+Adam,Scott,44,Male,Scarf,Accessories,99,Green,Yes,Standard,4,South Carolina,422,4,60
+Deanna,Warren,54,Male,Pants,Clothing,38,Green,Yes,Store Pickup,3,Colorado,279,67,61
+Jacob,Farrell,65,Male,Boots,Footwear,83,Green,Yes,Standard,4,Alabama,378,99,62
+Martin,Russell,33,Male,Gloves,Accessories,27,Green,Yes,Express,3,Arkansas,243,133,63
+Mary,Howard,18,Male,Jacket,Outerwear,22,Green,Yes,Store Pickup,2,Florida,232,136,64
+Ned,Thomas,51,Male,Sandals,Footwear,81,Green,Yes,Store Pickup,2,South Dakota,376,152,65
+Rosie,Thompson,66,Male,Pants,Clothing,90,Green,Yes,Standard,3,Rhode Island,398,170,66
+Sawyer,Williams,52,Male,Shoes,Footwear,53,Green,Yes,2-Day Shipping,2,Ohio,313,181,67
+William,Crawford,42,Male,T-shirt,Clothing,20,Green,Yes,Free Shipping,5,Alaska,229,199,68
+Adele,Clark,68,Male,Hoodie,Clothing,30,Indigo,Yes,Next Day Air,1,New Jersey,253,6,69
+Albert,Warren,46,Male,Sneakers,Footwear,31,Indigo,Yes,Store Pickup,2,Delaware,258,11,70
+Andrew,Tucker,28,Male,Skirt,Clothing,29,Indigo,Yes,Standard,1,Maine,249,32,71
+Antony,Harris,49,Male,Shorts,Clothing,54,Indigo,Yes,Next Day Air,5,California,318,37,72
+Emma,Allen,50,Male,Socks,Clothing,21,Indigo,Yes,2-Day Shipping,5,Tennessee,230,81,73
+Kelsey,Martin,26,Male,Hoodie,Clothing,40,Indigo,Yes,Express,5,Missouri,283,112,74
+Alford,Allen,38,Male,Boots,Footwear,88,Lavender,Yes,Next Day Air,5,Washington,393,17,75
+Belinda,Riley,61,Male,Skirt,Clothing,43,Lavender,Yes,2-Day Shipping,2,Idaho,291,44,76
+Carl,Armstrong,33,Male,Sunglasses,Accessories,79,Lavender,Yes,2-Day Shipping,2,Arizona,370,52,77
+Isabella,Gray,53,Male,Dress,Clothing,38,Lavender,Yes,2-Day Shipping,2,Mississippi,278,97,78
+Kelvin,Harper,25,Male,Scarf,Accessories,69,Lavender,Yes,Store Pickup,3,Ohio,349,114,79
+Lucas,Elliott,40,Male,Jacket,Outerwear,28,Lavender,Yes,2-Day Shipping,2,South Carolina,245,124,80
+Sofia,Kelly,39,Male,Backpack,Accessories,56,Lavender,Yes,Standard,2,Minnesota,322,183,81
+Vanessa,Spencer,35,Male,Shorts,Clothing,26,Lavender,Yes,Standard,2,Missouri,241,194,82
+Ada,Wilson,21,Male,Hoodie,Clothing,42,Magenta,Yes,Next Day Air,5,Kansas,286,2,83
+Arnold,Morrison,30,Male,Sneakers,Footwear,21,Magenta,Yes,Free Shipping,2,Mississippi,231,39,84
+Bruce,Baker,31,Male,Blouse,Clothing,94,Magenta,Yes,2-Day Shipping,5,Pennsylvania,405,49,85
+Kimberly,Allen,22,Male,Belt,Accessories,29,Magenta,Yes,Express,4,Alabama,248,117,86
+Melanie,Thomas,51,Male,Jacket,Outerwear,25,Magenta,Yes,Free Shipping,5,New York,238,140,87
+Preston,Miller,34,Male,Shoes,Footwear,80,Magenta,Yes,Express,2,Louisiana,372,164,88
+Adelaide,Mason,50,Male,Jeans,Clothing,73,Maroon,Yes,Free Shipping,2,Massachusetts,355,5,89
+Alexia,Tucker,21,Male,Sandals,Footwear,90,Maroon,Yes,Next Day Air,2,Rhode Island,397,15,90
+Amy,Rogers,68,Male,Skirt,Clothing,29,Maroon,Yes,Store Pickup,4,Georgia,250,30,91
+Anna,Thompson,19,Male,Sweater,Clothing,64,Maroon,Yes,Express,5,Maine,332,34,92
+Anna,Stewart,36,Male,Blouse,Clothing,82,Maroon,Yes,Next Day Air,2,West Virginia,377,35,93
+Arthur,Perkins,44,Male,Hat,Accessories,54,Maroon,Yes,Next Day Air,1,New Jersey,317,40,94
+Connie,Scott,50,Male,Skirt,Clothing,91,Maroon,Yes,Free Shipping,5,Nebraska,401,61,95
+Eric,Crawford,69,Male,Hoodie,Clothing,55,Maroon,Yes,Standard,1,North Carolina,320,83,96
+Evelyn,Stewart,67,Male,Shoes,Footwear,96,Maroon,Yes,Express,2,Virginia,415,84,97
+Kevin,Henderson,62,Male,Sunglasses,Accessories,98,Maroon,Yes,Express,4,South Dakota,420,116,98
+Maximilian,Adams,52,Male,Shirt,Clothing,25,Maroon,Yes,Store Pickup,1,Wyoming,237,138,99
+Maximilian,Thomas,35,Male,T-shirt,Clothing,69,Maroon,Yes,Free Shipping,2,Illinois,348,139,100
+April,Allen,38,Male,Jacket,Outerwear,96,Olive,Yes,2-Day Shipping,4,Iowa,414,38,101
+Charlie,Spencer,19,Male,Shorts,Clothing,72,Olive,Yes,Standard,4,Virginia,354,54,102
+Daniel,Payne,19,Male,Pants,Clothing,28,Olive,Yes,2-Day Shipping,4,Georgia,246,63,103
+Daniel,Rogers,51,Male,Backpack,Accessories,94,Olive,Yes,Express,3,Missouri,409,64,104
+Henry,Taylor,30,Male,Shorts,Clothing,68,Olive,Yes,Store Pickup,3,Hawaii,345,95,105
+Kelvin,Reed,65,Male,Backpack,Accessories,49,Olive,Yes,Express,1,North Dakota,306,113,106
+Kimberly,Ellis,28,Male,Sneakers,Footwear,67,Olive,Yes,Next Day Air,5,Maryland,341,118,107
+Paul,Rogers,63,Male,Socks,Clothing,77,Olive,Yes,Free Shipping,2,Maine,366,161,108
+Sam,Payne,61,Male,Jacket,Outerwear,87,Olive,No,2-Day Shipping,3,Texas,391,175,109
+Samantha,Tucker,24,Male,Dress,Clothing,67,Olive,Yes,2-Day Shipping,3,Pennsylvania,342,176,110
+Sawyer,Thompson,18,Male,Dress,Clothing,26,Olive,Yes,Store Pickup,4,Georgia,239,180,111
+Adam,Thompson,30,Male,Backpack,Accessories,58,Orange,Yes,2-Day Shipping,5,New Mexico,324,3,112
+Kate,Harris,55,Male,Scarf,Accessories,68,Orange,Yes,Store Pickup,1,Texas,346,111,113
+Lilianna,Campbell,67,Male,Scarf,Accessories,39,Orange,Yes,Standard,3,Alaska,280,123,114
+Maria,Parker,38,Male,Coat,Outerwear,76,Orange,Yes,Express,3,Wyoming,363,131,115
+Mary,Miller,50,Male,Sweater,Clothing,45,Orange,Yes,2-Day Shipping,1,Kentucky,293,137,116
+Michelle,Thompson,42,Male,Shirt,Clothing,55,Orange,Yes,Store Pickup,3,Nevada,319,145,117
+Savana,Cunningham,27,Male,Gloves,Accessories,23,Orange,Yes,Free Shipping,4,Texas,233,178,118
+Tiana,Davis,33,Male,T-shirt,Clothing,47,Orange,Yes,Free Shipping,5,Wyoming,298,191,119
+Adrian,Watson,56,Male,Pants,Clothing,37,Peach,Yes,Store Pickup,3,California,275,7,120
+Roman,Casey,52,Male,Coat,Outerwear,32,Peach,Yes,Standard,3,Arizona,260,169,121
+Sofia,Payne,29,Male,Skirt,Clothing,24,Peach,No,Next Day Air,2,Mississippi,234,182,122
+Alford,Wilson,47,Male,Jacket,Outerwear,83,Pink,Yes,Next Day Air,5,California,379,16,123
+Briony,Gibson,50,Male,Hoodie,Clothing,53,Pink,Yes,Express,2,Arkansas,314,47,124
+Catherine,Owens,37,Male,Sneakers,Footwear,100,Pink,No,Free Shipping,2,Missouri,424,53,125
+Gianna,Johnson,57,Male,Handbag,Accessories,31,Pink,Yes,2-Day Shipping,2,Missouri,256,89,126
+Lana,Wilson,55,Male,Sunglasses,Accessories,24,Pink,Yes,2-Day Shipping,1,New Hampshire,235,119,127
+Maria,Fowler,43,Male,Shorts,Clothing,36,Pink,Yes,Store Pickup,4,Mississippi,274,130,128
+Oscar,Reed,24,Male,Hoodie,Clothing,41,Pink,Yes,2-Day Shipping,3,Nevada,285,156,129
+Agata,Moore,65,Male,Backpack,Accessories,36,Purple,Yes,2-Day Shipping,1,New Jersey,273,9,130
+Alberta,Cooper,63,Male,Shoes,Footwear,64,Purple,Yes,2-Day Shipping,2,Idaho,334,12,131
+Aldus,Wilson,37,Male,Sweater,Clothing,62,Purple,Yes,Standard,1,Florida,331,13,132
+Alford,Johnston,38,Male,Gloves,Accessories,96,Purple,Yes,Store Pickup,3,Alabama,418,19,133
+Kate,Murray,54,Male,Skirt,Clothing,67,Purple,Yes,Standard,5,Virginia,343,110,134
+Kevin,Perry,19,Male,Shoes,Footwear,94,Purple,Yes,Store Pickup,1,Georgia,408,115,135
+Lucas,Brown,70,Male,Socks,Clothing,79,Purple,No,Next Day Air,5,Montana,371,125,136
+Miley,Watson,26,Male,Belt,Accessories,75,Purple,Yes,Free Shipping,2,Massachusetts,360,147,137
+Roland,Gibson,59,Male,Handbag,Accessories,65,Purple,Yes,Free Shipping,4,Delaware,337,168,138
+Victoria,Hill,53,Male,Shoes,Footwear,34,Purple,Yes,Store Pickup,2,Arkansas,268,195,139
+Walter,Warren,43,Male,Sandals,Footwear,81,Purple,Yes,Express,5,Kansas,374,198,140
+Alford,Harper,54,Male,Boots,Footwear,89,Red,Yes,Next Day Air,3,West Virginia,394,18,141
+Alfred,Roberts,38,Male,Jewelry,Accessories,20,Red,Yes,Next Day Air,2,Nevada,228,20,142
+Belinda,Edwards,49,Male,Blouse,Clothing,28,Red,Yes,Store Pickup,5,Maryland,244,42,143
+Haris,Thompson,29,Male,Dress,Clothing,37,Red,Yes,2-Day Shipping,4,Florida,276,93,144
+Myra,Wright,64,Male,Hat,Accessories,84,Red,Yes,Express,3,West Virginia,380,151,145
+Oscar,Turner,37,Male,Gloves,Accessories,65,Red,No,Free Shipping,1,Florida,335,158,146
+Agata,Chapman,57,Male,Handbag,Accessories,46,Silver,Yes,Next Day Air,3,Utah,295,10,147
+Byron,Stevens,18,Male,Hoodie,Clothing,25,Silver,Yes,Express,2,Texas,236,50,148
+Edward,Stevens,26,Male,Coat,Outerwear,97,Silver,Yes,Express,1,West Virginia,419,76,149
+Elise,Parker,39,Male,Hat,Accessories,53,Silver,Yes,Free Shipping,5,Kentucky,311,77,150
+Melanie,Barnes,58,Male,Skirt,Clothing,76,Silver,No,Free Shipping,1,Nevada,362,141,151
+Paul,Morgan,36,Male,Belt,Accessories,100,Silver,Yes,Standard,1,North Dakota,425,163,152
+Robert,Robinson,36,Male,Jacket,Outerwear,67,Silver,Yes,Free Shipping,1,Kansas,338,167,153
+Ryan,Wells,46,Male,T-shirt,Clothing,32,Silver,Yes,Store Pickup,5,Wisconsin,263,173,154
+Savana,Hall,19,Male,Shoes,Footwear,43,Silver,Yes,Express,5,New Jersey,290,179,155
+Amy,Richards,20,Male,Jeans,Clothing,67,Teal,Yes,Next Day Air,2,New York,339,31,156
+Andrew,Higgins,64,Male,Coat,Outerwear,53,Teal,Yes,Free Shipping,3,New York,310,33,157
+Edith,Rogers,50,Male,Hat,Accessories,43,Teal,Yes,Free Shipping,2,Delaware,288,73,158
+Ellia,Douglas,25,Male,Shirt,Clothing,73,Teal,Yes,Standard,5,Connecticut,358,79,159
+Lyndon,Wells,21,Male,Shoes,Footwear,92,Teal,Yes,Store Pickup,4,Virginia,402,128,160
+Melissa,Andrews,64,Male,Skirt,Clothing,81,Teal,Yes,Store Pickup,3,Rhode Island,373,142,161
+Miller,Morris,24,Male,Jewelry,Accessories,95,Teal,Yes,Standard,3,Missouri,413,150,162
+Paige,Ellis,48,Male,Pants,Clothing,85,Teal,Yes,Free Shipping,3,Hawaii,382,160,163
+Alfred,Clark,56,Male,Gloves,Accessories,46,Turquoise,Yes,Free Shipping,4,Virginia,296,21,164
+Alina,Watson,28,Male,Sunglasses,Accessories,47,Turquoise,Yes,Next Day Air,4,North Dakota,299,22,165
+Belinda,Cooper,68,Male,Sneakers,Footwear,43,Turquoise,Yes,Free Shipping,4,Colorado,289,43,166
+Derek,West,46,Male,Shoes,Footwear,29,Turquoise,Yes,Express,3,Nebraska,252,69,167
+Edith,Dixon,57,Male,Jewelry,Accessories,45,Turquoise,Yes,Standard,5,Utah,294,74,168
+Emily,Dixon,36,Male,Dress,Clothing,40,Turquoise,Yes,Standard,2,Texas,282,80,169
+Fenton,Barrett,54,Male,Sunglasses,Accessories,74,Turquoise,Yes,Store Pickup,5,California,359,85,170
+Julia,Roberts,70,Male,Pants,Clothing,60,Turquoise,Yes,Express,3,Arizona,327,105,171
+Julian,Bailey,25,Male,Hat,Accessories,46,Turquoise,Yes,Standard,2,Hawaii,297,107,172
+Michael,Kelly,45,Male,Blouse,Clothing,49,Turquoise,Yes,Free Shipping,2,Oregon,305,144,173
+Amanda,Hunt,44,Male,Scarf,Accessories,39,Violet,Yes,Next Day Air,4,Kentucky,281,26,174
+Amber,Ferguson,49,Male,Gloves,Accessories,58,Violet,Yes,Express,4,Indiana,323,28,175
+Arthur,Payne,53,Male,Coat,Outerwear,86,Violet,Yes,Next Day Air,5,Oklahoma,390,41,176
+Carl,Warren,25,Male,Hat,Accessories,48,Violet,Yes,Express,2,South Carolina,303,51,177
+Chloe,Roberts,54,Male,Jewelry,Accessories,67,Violet,Yes,Next Day Air,1,Nebraska,344,60,178
+Deanna,Cunningham,65,Male,Dress,Clothing,51,Violet,No,Express,5,New Hampshire,307,68,179
+James,Mason,64,Male,Boots,Footwear,31,Violet,Yes,Store Pickup,5,Illinois,259,101,180
+John,Murray,58,Male,T-shirt,Clothing,85,Violet,Yes,Next Day Air,4,Alabama,385,103,181
+Leonardo,Spencer,52,Male,Sweater,Clothing,65,Violet,Yes,Next Day Air,2,Montana,336,122,182
+Rubie,Roberts,36,Male,T-shirt,Clothing,91,Violet,Yes,2-Day Shipping,4,North Dakota,400,172,183
+Spike,Martin,37,Male,Jacket,Outerwear,58,Violet,Yes,Free Shipping,1,Nebraska,325,185,184
+Violet,Barrett,51,Male,Socks,Clothing,67,Violet,Yes,Next Day Air,2,Oklahoma,340,196,185
+Alissa,Gray,38,Male,Pants,Clothing,76,White,Yes,Free Shipping,5,Delaware,364,25,186
+Amelia,Allen,39,Male,Blouse,Clothing,86,White,Yes,Free Shipping,5,South Carolina,389,29,187
+Dale,Clark,49,Male,Coat,Outerwear,95,White,Yes,Store Pickup,1,Florida,412,62,188
+Emma,Gibson,57,Male,Shirt,Clothing,43,White,Yes,Store Pickup,4,California,287,82,189
+Joyce,Casey,31,Male,Pants,Clothing,88,White,Yes,Express,5,Oklahoma,392,104,190
+Julia,Riley,27,Male,Coat,Outerwear,85,White,Yes,Express,3,North Dakota,384,106,191
+Kate,West,46,Male,Sneakers,Footwear,20,White,Yes,Standard,5,Wyoming,227,108,192
+Oliver,Campbell,21,Male,Coat,Outerwear,64,White,No,Store Pickup,3,West Virginia,333,154,193
+Tara,Mason,64,Male,Jacket,Outerwear,35,White,Yes,Standard,2,Minnesota,269,189,194
+Adrianna,Perry,63,Male,Shirt,Clothing,28,Yellow,Yes,2-Day Shipping,5,North Carolina,247,8,195
+Frederick,Watson,36,Male,Hat,Accessories,68,Yellow,Yes,Next Day Air,2,Vermont,347,87,196
+Gianna,Brown,50,Male,Sandals,Footwear,32,Yellow,Yes,Express,5,South Dakota,261,90,197
+Grace,Andrews,63,Male,Belt,Accessories,79,Yellow,Yes,Standard,4,Louisiana,369,92,198
+Sydney,Myers,42,Male,Handbag,Accessories,60,Yellow,Yes,Store Pickup,3,Kentucky,328,188,199

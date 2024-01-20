@@ -1,0 +1,199 @@
+1,309,Kentucky,Express,53
+2,332,Maine,Express,64
+3,355,Massachusetts,Free Shipping,73
+4,397,Rhode Island,Next Day Air,90
+5,305,Oregon,Free Shipping,49
+6,227,Wyoming,Standard,20
+7,381,Montana,Free Shipping,85
+8,267,Louisiana,Free Shipping,34
+9,419,West Virginia,Express,97
+10,256,Missouri,2-Day Shipping,31
+11,268,Arkansas,Store Pickup,34
+12,345,Hawaii,Store Pickup,68
+13,352,Delaware,Express,72
+14,307,New Hampshire,Express,51
+15,310,New York,Free Shipping,53
+16,373,Rhode Island,Store Pickup,81
+17,272,Alabama,Next Day Air,36
+18,278,Mississippi,2-Day Shipping,38
+19,300,Montana,Free Shipping,48
+20,398,Rhode Island,Standard,90
+21,308,Louisiana,Express,51
+22,330,North Carolina,Store Pickup,62
+23,275,California,Store Pickup,37
+24,392,Oklahoma,Express,88
+25,232,Florida,Store Pickup,22
+26,236,Texas,Express,25
+27,228,Nevada,Next Day Air,20
+28,321,Kentucky,Next Day Air,56
+29,403,North Carolina,Free Shipping,94
+30,301,Wyoming,Store Pickup,48
+31,257,North Carolina,Standard,31
+32,368,West Virginia,Store Pickup,79
+33,338,Kansas,Free Shipping,67
+34,279,Colorado,Store Pickup,38
+35,400,North Dakota,2-Day Shipping,91
+36,264,Massachusetts,2-Day Shipping,33
+37,348,Illinois,Free Shipping,69
+38,292,Indiana,Store Pickup,45
+39,276,Florida,2-Day Shipping,37
+40,327,Arizona,Express,60
+41,361,Louisiana,Next Day Air,76
+42,280,Alaska,Standard,39
+43,423,Tennessee,Free Shipping,100
+44,349,Ohio,Store Pickup,69
+45,311,Kentucky,Free Shipping,53
+46,230,Tennessee,2-Day Shipping,21
+47,287,California,Store Pickup,43
+48,315,Montana,Free Shipping,54
+49,319,Nevada,Store Pickup,55
+50,253,New Jersey,Next Day Air,30
+51,244,Maryland,Store Pickup,28
+52,326,Vermont,2-Day Shipping,59
+53,229,Alaska,Free Shipping,20
+54,234,Mississippi,Next Day Air,24
+55,404,New Mexico,Next Day Air,94
+56,245,South Carolina,2-Day Shipping,28
+57,356,Mississippi,Store Pickup,73
+58,333,West Virginia,Store Pickup,64
+59,316,Missouri,Free Shipping,54
+60,369,Louisiana,Standard,79
+61,277,Idaho,Express,37
+62,346,Texas,Store Pickup,68
+63,231,Mississippi,Free Shipping,21
+64,370,Arizona,2-Day Shipping,79
+65,378,Alabama,Standard,83
+66,273,New Jersey,2-Day Shipping,36
+67,405,Pennsylvania,2-Day Shipping,94
+68,265,Connecticut,Store Pickup,33
+69,295,Utah,Next Day Air,46
+70,350,Tennessee,Express,70
+71,248,Alabama,Express,29
+72,302,Virginia,Express,48
+73,239,Georgia,Store Pickup,26
+74,382,Hawaii,Free Shipping,85
+75,323,Indiana,Express,58
+76,383,Utah,Free Shipping,85
+77,288,Delaware,Free Shipping,43
+78,312,Delaware,Next Day Air,53
+79,401,Nebraska,Free Shipping,91
+80,414,Iowa,2-Day Shipping,96
+81,353,New York,Store Pickup,72
+82,415,Virginia,Express,96
+83,246,Georgia,2-Day Shipping,28
+84,282,Texas,Standard,40
+85,260,Arizona,Standard,32
+86,410,New Mexico,Next Day Air,95
+87,285,Nevada,2-Day Shipping,41
+88,313,Ohio,2-Day Shipping,53
+89,298,Wyoming,Free Shipping,47
+90,379,California,Next Day Air,83
+91,303,South Carolina,Express,48
+92,422,South Carolina,Standard,99
+93,391,Texas,2-Day Shipping,87
+94,331,Florida,Standard,62
+95,362,Nevada,Free Shipping,76
+96,424,Missouri,Free Shipping,100
+97,357,Delaware,Express,73
+98,402,Virginia,Store Pickup,92
+99,339,New York,Next Day Air,67
+100,283,Missouri,Express,40
+101,420,South Dakota,Express,98
+102,384,North Dakota,Express,85
+103,340,Oklahoma,Next Day Air,67
+104,394,West Virginia,Next Day Air,89
+105,235,New Hampshire,2-Day Shipping,24
+106,416,New York,Next Day Air,96
+107,269,Minnesota,Standard,35
+108,341,Maryland,Next Day Air,67
+109,371,Montana,Next Day Air,79
+110,385,Alabama,Next Day Air,85
+111,240,New York,Standard,26
+112,360,Massachusetts,Free Shipping,75
+113,335,Florida,Free Shipping,65
+114,317,New Jersey,Next Day Air,54
+115,411,Massachusetts,Store Pickup,95
+116,406,Wyoming,Standard,94
+117,387,Virginia,Free Shipping,86
+118,261,South Dakota,Express,32
+119,293,Kentucky,2-Day Shipping,45
+120,363,Wyoming,Express,76
+121,380,West Virginia,Express,84
+122,354,Virginia,Standard,72
+123,284,Washington,2-Day Shipping,40
+124,395,Louisiana,Free Shipping,89
+125,388,Nevada,Next Day Air,86
+126,318,California,Next Day Air,54
+127,274,Mississippi,Store Pickup,36
+128,396,Mississippi,Next Day Air,89
+129,262,California,Standard,32
+130,342,Pennsylvania,2-Day Shipping,67
+131,281,Kentucky,Next Day Air,39
+132,249,Maine,Standard,29
+133,324,New Mexico,2-Day Shipping,58
+134,336,Montana,Next Day Air,65
+135,407,Texas,Store Pickup,94
+136,374,Kansas,Express,81
+137,389,South Carolina,Free Shipping,86
+138,289,Colorado,Free Shipping,43
+139,250,Georgia,Store Pickup,29
+140,412,Florida,Store Pickup,95
+141,247,North Carolina,2-Day Shipping,28
+142,296,Virginia,Free Shipping,46
+143,325,Nebraska,Free Shipping,58
+144,304,Missouri,Store Pickup,48
+145,290,New Jersey,Express,43
+146,413,Missouri,Standard,95
+147,254,Colorado,Standard,30
+148,334,Idaho,2-Day Shipping,64
+149,399,Wyoming,Store Pickup,90
+150,364,Delaware,Free Shipping,76
+151,417,California,Standard,96
+152,299,North Dakota,Next Day Air,47
+153,386,South Carolina,Express,85
+154,320,North Carolina,Standard,55
+155,421,Oklahoma,Next Day Air,98
+156,366,Maine,Free Shipping,77
+157,241,Missouri,Standard,26
+158,347,Vermont,Next Day Air,68
+159,358,Connecticut,Standard,73
+160,242,New Hampshire,Store Pickup,27
+161,233,Texas,Free Shipping,23
+162,306,North Dakota,Express,49
+163,359,California,Store Pickup,74
+164,343,Virginia,Standard,67
+165,337,Delaware,Free Shipping,65
+166,328,Kentucky,Store Pickup,60
+167,258,Delaware,Store Pickup,31
+168,243,Arkansas,Express,27
+169,372,Louisiana,Express,80
+170,255,Nevada,Standard,30
+171,237,Wyoming,Store Pickup,25
+172,270,Virginia,Store Pickup,35
+173,344,Nebraska,Next Day Air,67
+174,297,Hawaii,Standard,46
+175,271,Vermont,Express,35
+176,390,Oklahoma,Next Day Air,86
+177,375,New Hampshire,Next Day Air,81
+178,286,Kansas,Next Day Air,42
+179,291,Idaho,2-Day Shipping,43
+180,259,Illinois,Store Pickup,31
+181,376,South Dakota,Store Pickup,81
+182,329,Massachusetts,Next Day Air,61
+183,418,Alabama,Store Pickup,96
+184,251,Ohio,2-Day Shipping,29
+185,266,Hawaii,Express,33
+186,263,Wisconsin,Store Pickup,32
+187,322,Minnesota,Standard,56
+188,408,Georgia,Store Pickup,94
+189,314,Arkansas,Express,53
+190,377,West Virginia,Next Day Air,82
+191,351,Indiana,Free Shipping,70
+192,365,Utah,Free Shipping,76
+193,252,Nebraska,Express,29
+194,425,North Dakota,Standard,100
+195,409,Missouri,Express,94
+196,238,New York,Free Shipping,25
+197,393,Washington,Next Day Air,88
+198,367,South Carolina,2-Day Shipping,78
+199,294,Utah,Standard,45
